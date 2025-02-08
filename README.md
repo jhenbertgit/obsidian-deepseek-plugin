@@ -4,11 +4,11 @@
 
 ## Features
 
-    - **Advanced Graph View**: Visualize connections between notes based on various analysis criteria.
-    - **Customizable Filters**: Filter and segment your notes to focus on specific topics or relationships.
-    - **Tag and Link Analysis**: Analyze the frequency and usage of tags, links, and other metadata within your vault.
-    - **Trend Identification**: Automatically highlight growing themes or areas of interest based on note activity.
-    - **Connection Strength**: Assess how strongly your notes are connected, helping you identify key concepts and ideas.
+- **Advanced Graph View**: Visualize connections between notes based on various analysis criteria.
+- **Customizable Filters**: Filter and segment your notes to focus on specific topics or relationships.
+- **Tag and Link Analysis**: Analyze the frequency and usage of tags, links, and other metadata within your vault.
+- **Trend Identification**: Automatically highlight growing themes or areas of interest based on note activity.
+- **Connection Strength**: Assess how strongly your notes are connected, helping you identify key concepts and ideas.
 
 ## Installation
 
@@ -22,9 +22,9 @@
 
 Once the plugin is enabled, you can access it from the **DeepSeek Analysis** tab in your sidebar. Use the following features:
 
-    - **Graph View**: Generate an advanced graph view to explore connections and patterns within your vault.
-    - **Filters**: Apply various filters to focus on specific tags, links, or timeframes for more targeted analysis.
-    - **Insights**: View trends and insights about your note-taking activity and knowledge growth.
+- **Graph View**: Generate an advanced graph view to explore connections and patterns within your vault.
+- **Filters**: Apply various filters to focus on specific tags, links, or timeframes for more targeted analysis.
+- **Insights**: View trends and insights about your note-taking activity and knowledge growth.
 
 ## Settings
 
