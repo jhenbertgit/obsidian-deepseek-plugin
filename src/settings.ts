@@ -67,8 +67,8 @@ export class DeepSeekSettingTab extends PluginSettingTab {
             .setName("Model")
             .setDesc("Choose DeepSeek model")
             .addDropdown(dropdown => dropdown
-                .addOption("deepseek-chat", "DeepSeek Chat")
-                .addOption("deepseek-coder", "DeepSeek Coder")
+                .addOption("deepseek-chat", "DeepSeek V3")
+                .addOption("deepseek-reasoner", "DeepSeek R1")
                 .setValue(this.plugin.settings.model)
                 .onChange(async (value) => {
                     this.plugin.settings.model = value;

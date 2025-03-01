@@ -88,7 +88,7 @@ export default class DeepSeekPlugin extends Plugin {
                                     ${context}`,
 							},
 						],
-						temperature: 0.7,
+						temperature: 1.0,
 						max_tokens: 2000,
 					}),
 				}
