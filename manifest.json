@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Analyze notes using DeepSeek AI",
 	"author": "Jhenbert",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://jhenbert.pro",
+	"fundingUrl": "https://jhenbert.pro/donate",
 	"isDesktopOnly": false
 }
